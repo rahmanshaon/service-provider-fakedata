@@ -4,41 +4,41 @@
     "name": "React Crush Course",
     "price": "80",
     "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-    "img": ""
+    "img": "https://raw.githubusercontent.com/rahmanshaon/service-provider-fakedata/main/img/01.jpg"
   },
   {
     "id": 2,
     "name": "TypeScript Crush Course",
     "price": "110",
     "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-    "img": ""
+    "img": "https://raw.githubusercontent.com/rahmanshaon/service-provider-fakedata/main/img/02.jpg"
   },
   {
     "id": 3,
     "name": "Next JS Crush  Course",
     "price": "120",
     "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-    "img": ""
+    "img": "https://raw.githubusercontent.com/rahmanshaon/service-provider-fakedata/main/img/03.jpg"
   },
   {
     "id": 4,
     "name": "Svelte Crush Course",
     "price": "180",
     "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-    "img": ""
+    "img": "https://raw.githubusercontent.com/rahmanshaon/service-provider-fakedata/main/img/04.jpg"
   },
   {
     "id": 5,
     "name": "Vue JS Crush Course",
     "price": "80",
     "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-    "img": ""
+    "img": "https://raw.githubusercontent.com/rahmanshaon/service-provider-fakedata/main/img/05.jpg"
   },
   {
     "id": 6,
     "name": "Angular Crush Course",
     "price": "75",
     "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
-    "img": ""
+    "img": "https://raw.githubusercontent.com/rahmanshaon/service-provider-fakedata/main/img/06.jpg"
   }
 ]
